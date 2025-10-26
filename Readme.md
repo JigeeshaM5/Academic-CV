@@ -1,5 +1,5 @@
 # Plant and Fungal Researcher and Bioinformatician
-### _Current Position - Incoming Postdoc - Plant Science, Penn State University_ 
+### _Current Position - Postdoc - Plant Science, Penn State University_ 
 #### Summary: 
 Ph.D. in Fungal Genomics and Transcriptomics with 10 years of cumulative research experience in CRISPR/Cas9 genome editing, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic and transcriptomic data and utilizing Bash, R/Shiny, and Python packages for plant and fungal sequencing and taxonomy applications. Interested in a research or industry role involving genomics, transcriptomics, and bioinformatics for fungi and plants. 
 
