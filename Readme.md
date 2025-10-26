@@ -4,7 +4,7 @@
 Ph.D. in Fungal Genomics and Transcriptomics with 10 years of cumulative research experience in CRISPR/Cas9 genome editing, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic and transcriptomic data and utilizing Bash, R/Shiny, and Python packages for plant and fungal sequencing and taxonomy applications. Interested in a research or industry role involving genomics, transcriptomics, and bioinformatics for fungi and plants. 
 
 #### Publication Statistics:
-Total Citations: **42** <a href="https://www.semanticscholar.org/author/Jigeesha-Mukhopadhyay/152886482" target="_blank">Semantic Scholar</a>
+Total Citations: **62** <a href="https://www.semanticscholar.org/author/Jigeesha-Mukhopadhyay/152886482" target="_blank">Semantic Scholar</a>
 
 #### Technical Skills:
 
