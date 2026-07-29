@@ -14,4 +14,4 @@ Total Citations: **62** <a href="https://www.semanticscholar.org/author/Jigeesha
 
   ## 🎓 Education
 - **Ph.D.**, Fungal Mitogenomics and Transcriptomics | <a href="http://hdl.handle.net/1993/38382" target="_blank">University of Manitoba</a> (_SEPT 2019 - AUG 2024_)		  		
-- **Integrated B.S.-M.S.**, Biotechnology and Plant Genome Editing	| <a href="https://www.nipgr.ac.in/home/home.php" target="_blank">National Institute of Plant Genome Research</a> (_JUNE 2019_)	 			        		
+ 			        		
